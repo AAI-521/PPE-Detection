@@ -53,4 +53,4 @@ This project endeavors to create a holistic PPE detection system, spanning the e
 
 ## Acknowledgments
 - Special thanks to the faculty and peers at the University of San Diego's Applied Artificial Intelligence Program.
-- [Mention any other contributors or sources of technical help]
+
